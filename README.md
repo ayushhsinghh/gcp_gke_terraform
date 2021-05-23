@@ -10,4 +10,4 @@
 6. Connect the SQL database to the web application launched in the Kubernetes cluster
 
 
-Complete Blog[https://ayushhsinghh.medium.com/google-kubernetes-engine-with-wordpress-and-mysql-database-using-terraform-8583a3a2f078]
+[Complete Blog](https://ayushhsinghh.medium.com/google-kubernetes-engine-with-wordpress-and-mysql-database-using-terraform-8583a3a2f078)
